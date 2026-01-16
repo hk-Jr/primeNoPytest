@@ -10,7 +10,7 @@ def prime_no(num):
     return prime
 
 if __name__=="__main__":
-    num=13
+    num=4
 
     isPrime=prime_no(num)
 
